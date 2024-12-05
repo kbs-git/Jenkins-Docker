@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-05T11:01:54 IST" name="Surefire suite" finished-at="2024-12-05T11:02:04 IST" duration-ms="9598">
+  <suite started-at="2024-12-05T11:28:20 IST" name="Surefire suite" finished-at="2024-12-05T11:28:42 IST" duration-ms="22103">
     <groups>
     </groups>
-    <test started-at="2024-12-05T11:01:54 IST" name="Surefire test" finished-at="2024-12-05T11:02:04 IST" duration-ms="9598">
+    <test started-at="2024-12-05T11:28:20 IST" name="Surefire test" finished-at="2024-12-05T11:28:42 IST" duration-ms="22103">
       <class name="com.seleniumtest.tests.ExecutionTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.seleniumtest.tests.ExecutionTest@794cb805]" started-at="2024-12-05T11:01:54 IST" name="start" finished-at="2024-12-05T11:02:03 IST" duration-ms="8516" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.seleniumtest.tests.ExecutionTest@794cb805]" started-at="2024-12-05T11:28:20 IST" name="start" finished-at="2024-12-05T11:28:25 IST" duration-ms="4528" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="verifyLoginTest()[pri:0, instance:com.seleniumtest.tests.ExecutionTest@794cb805]" started-at="2024-12-05T11:02:03 IST" name="verifyLoginTest" finished-at="2024-12-05T11:02:03 IST" duration-ms="769" status="PASS">
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.seleniumtest.tests.ExecutionTest@794cb805]" started-at="2024-12-05T11:28:25 IST" name="verifyLoginTest" finished-at="2024-12-05T11:28:42 IST" duration-ms="17222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method is-config="true" signature="end()[pri:0, instance:com.seleniumtest.tests.ExecutionTest@794cb805]" started-at="2024-12-05T11:02:03 IST" name="end" finished-at="2024-12-05T11:02:04 IST" duration-ms="250" status="PASS">
+        <test-method is-config="true" signature="end()[pri:0, instance:com.seleniumtest.tests.ExecutionTest@794cb805]" started-at="2024-12-05T11:28:42 IST" name="end" finished-at="2024-12-05T11:28:42 IST" duration-ms="291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
